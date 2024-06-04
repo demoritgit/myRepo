@@ -1,1 +1,1 @@
-console.log("Hello viewers")
+console.log("Hello viewers, please subscribe")
